@@ -1,0 +1,23 @@
+.box{
+    width: 550px;
+    height: 550px;
+    border: 1px solid black;
+}
+.box h4{
+    padding-left: 134px;
+    padding-top: 112px;
+    font-size: 14px;
+    margin: 0px;
+    margin-bottom: 10px;
+}
+.box p{
+    padding-left: 134px;
+    font-size: 14px;
+    margin: 0px;
+}
+.box img{
+    margin-left: 134px;
+}
+.box a{
+    padding-left: 134px;
+}
